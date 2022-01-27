@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser
+END
+BehaviorDispenseFireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDispenseFireball.java
+END
+BehaviorSnowballDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorSnowballDispense.java
+END
+BehaviorDispenseBoat.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDispenseBoat.java
+END
+BehaviorPotionDispenseLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorPotionDispenseLogic.java
+END
+BehaviorDispenseFirework.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDispenseFirework.java
+END
+BehaviorArrowDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorArrowDispense.java
+END
+BehaviorBucketEmptyDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorBucketEmptyDispense.java
+END
+BehaviorMobEggDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorMobEggDispense.java
+END
+BehaviorProjectileDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorProjectileDispense.java
+END
+BehaviorBucketFullDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorBucketFullDispense.java
+END
+IPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/IPosition.java
+END
+BehaviorDispenseMinecart.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDispenseMinecart.java
+END
+BehaviorEggDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorEggDispense.java
+END
+BehaviorDefaultDispenseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDefaultDispenseItem.java
+END
+ILocatableSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/ILocatableSource.java
+END
+IRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/IRegistry.java
+END
+BehaviorExpBottleDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorExpBottleDispense.java
+END
+ILocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/ILocation.java
+END
+IBehaviorDispenseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/IBehaviorDispenseItem.java
+END
+RegistrySimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/RegistrySimple.java
+END
+BehaviorPotionDispense.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorPotionDispense.java
+END
+BehaviorDispenseItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/BehaviorDispenseItemProvider.java
+END
+IBlockSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/IBlockSource.java
+END
+RegistryDefaulted.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/RegistryDefaulted.java
+END
+PositionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/dispenser/PositionImpl.java
+END

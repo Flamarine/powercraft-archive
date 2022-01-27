@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes
+END
+PC_SmeltRecipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_SmeltRecipe.java
+END
+PC_IRecipeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_IRecipeInfo.java
+END
+PC_3DRecipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_3DRecipe.java
+END
+PC_ShapedRecipes.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_ShapedRecipes.java
+END
+PC_IRecipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_IRecipe.java
+END
+PC_ShapelessRecipes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_ShapelessRecipes.java
+END
+PC_I3DRecipeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_I3DRecipeHandler.java
+END
+PC_3DRecipeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/recipes/PC_3DRecipeManager.java
+END

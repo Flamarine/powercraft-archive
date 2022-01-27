@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry
+END
+PC_GresRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_GresRegistry.java
+END
+PC_TextureRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_TextureRegistry.java
+END
+PC_RegistryServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_RegistryServer.java
+END
+PC_RecipeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_RecipeRegistry.java
+END
+PC_DataHandlerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_DataHandlerRegistry.java
+END
+PC_EntityRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_EntityRegistry.java
+END
+PC_RegistryClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_RegistryClient.java
+END
+PC_LangRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_LangRegistry.java
+END
+PC_ModuleRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_ModuleRegistry.java
+END
+PC_MSGRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_MSGRegistry.java
+END
+PC_SoundRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_SoundRegistry.java
+END
+PC_KeyRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_KeyRegistry.java
+END
+PC_TickRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_TickRegistry.java
+END
+PC_BlockRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_BlockRegistry.java
+END
+PC_ItemRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/registry/PC_ItemRegistry.java
+END

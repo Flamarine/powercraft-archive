@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj
+END
+WeaselDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselDouble.java
+END
+WeaselNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselNull.java
+END
+WeaselBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselBoolean.java
+END
+WeaselFunctionCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselFunctionCall.java
+END
+WeaselVariableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselVariableMap.java
+END
+WeaselStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselStack.java
+END
+WeaselObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselObject.java
+END
+WeaselString.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/obj/WeaselString.java
+END

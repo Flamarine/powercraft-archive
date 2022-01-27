@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/launcher
+END
+PC_Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1052/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_Property.java
+END
+PC_PacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1056/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_PacketHandler.java
+END
+PC_Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1068/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_Version.java
+END
+mod_PowerCraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1059/trunk/powercraft_147/src/minecraft/powercraft/launcher/mod_PowerCraft.java
+END
+PC_Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1052/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_Logger.java
+END
+PC_Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_Launcher.java
+END
+PC_LauncherClientUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1068/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_LauncherClientUtils.java
+END
+PC_LauncherUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1068/trunk/powercraft_147/src/minecraft/powercraft/launcher/PC_LauncherUtils.java
+END

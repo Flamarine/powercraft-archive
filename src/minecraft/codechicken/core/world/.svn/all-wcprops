@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/world
+END
+WorldExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/world/WorldExtension.java
+END
+WorldExtensionInstantiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/world/WorldExtensionInstantiator.java
+END
+ChunkExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/world/ChunkExtension.java
+END
+WorldExtensionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/world/WorldExtensionManager.java
+END

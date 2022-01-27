@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item
+END
+EntityItemFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityItemFrame.java
+END
+EntityPainting.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityPainting.java
+END
+EntityXPOrb.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityXPOrb.java
+END
+EntityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityItem.java
+END
+EntityEnderCrystal.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityEnderCrystal.java
+END
+EntityFireworkRocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityFireworkRocket.java
+END
+EntityEnderEye.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityEnderEye.java
+END
+EntityEnderPearl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityEnderPearl.java
+END
+EntityMinecart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityMinecart.java
+END
+EntityFallingSand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityFallingSand.java
+END
+SoundUpdaterMinecart.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/SoundUpdaterMinecart.java
+END
+EntityBoat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityBoat.java
+END
+EntityExpBottle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityExpBottle.java
+END
+EntityTNTPrimed.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/item/EntityTNTPrimed.java
+END

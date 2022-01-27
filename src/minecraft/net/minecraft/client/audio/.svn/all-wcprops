@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/SoundManager.java
+END
+SoundPoolEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/SoundPoolEntry.java
+END
+ScheduledSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/ScheduledSound.java
+END
+MusInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/MusInputStream.java
+END
+SoundPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/SoundPool.java
+END
+CodecMus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/audio/CodecMus.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/annotation
+END
+PC_BlockInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/annotation/PC_BlockInfo.java
+END
+PC_FieldObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/annotation/PC_FieldObject.java
+END
+PC_Shining.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/annotation/PC_Shining.java
+END
+PC_ClientServerSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/annotation/PC_ClientServerSync.java
+END

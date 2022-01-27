@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated
+END
+DedicatedServerListenThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/DedicatedServerListenThread.java
+END
+DedicatedServerCommandThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/DedicatedServerCommandThread.java
+END
+ConsoleLogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/ConsoleLogFormatter.java
+END
+CallableServerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/CallableServerType.java
+END
+DedicatedServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/DedicatedServer.java
+END
+DedicatedServerSleepThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/DedicatedServerSleepThread.java
+END
+ConsoleLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/ConsoleLogManager.java
+END
+DedicatedPlayerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/DedicatedPlayerList.java
+END
+PropertyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/PropertyManager.java
+END
+CallableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/dedicated/CallableType.java
+END

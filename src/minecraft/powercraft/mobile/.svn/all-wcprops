@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/mobile
+END
+PCmo_MinerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_MinerManager.java
+END
+PCmo_MinerBrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_MinerBrain.java
+END
+PCmo_MinerWeaselBrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_MinerWeaselBrain.java
+END
+PCmo_EntityMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_EntityMiner.java
+END
+PCmo_RenderMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_RenderMiner.java
+END
+PCmo_ModelMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_ModelMiner.java
+END
+PCmo_ContainerMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_ContainerMiner.java
+END
+PCmo_Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1052/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_Command.java
+END
+PCmo_GuiMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_GuiMiner.java
+END
+PCmo_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_AppClient.java
+END
+PCmo_IMinerBrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_IMinerBrain.java
+END
+PCmo_GuiWeaselMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_GuiWeaselMiner.java
+END
+PCmo_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/mobile/PCmo_App.java
+END

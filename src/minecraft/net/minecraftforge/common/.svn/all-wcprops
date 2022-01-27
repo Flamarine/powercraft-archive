@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common
+END
+ISidedInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ISidedInventory.java
+END
+DimensionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/DimensionManager.java
+END
+ForgeDummyContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeDummyContainer.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/Property.java
+END
+AchievementPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/AchievementPage.java
+END
+IMinecartCollisionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/IMinecartCollisionHandler.java
+END
+IArmorTextureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/IArmorTextureProvider.java
+END
+ForgeChunkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeChunkManager.java
+END
+BiomeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/BiomeManager.java
+END
+ISpecialArmor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ISpecialArmor.java
+END
+MinecartRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/MinecartRegistry.java
+END
+MinecraftForge.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/MinecraftForge.java
+END
+ForgeInternalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeInternalHandler.java
+END
+IThrowableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/IThrowableEntity.java
+END
+IShearable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/IShearable.java
+END
+DungeonHooks.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/DungeonHooks.java
+END
+ConfigCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ConfigCategory.java
+END
+ForgeDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeDirection.java
+END
+ChestGenHooks.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ChestGenHooks.java
+END
+EnumHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/EnumHelper.java
+END
+EnumPlantType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/EnumPlantType.java
+END
+ForgeHooks.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeHooks.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/Configuration.java
+END
+ForgeVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/ForgeVersion.java
+END
+WorldSpecificSaveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/WorldSpecificSaveHandler.java
+END
+IPlantable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/common/IPlantable.java
+END

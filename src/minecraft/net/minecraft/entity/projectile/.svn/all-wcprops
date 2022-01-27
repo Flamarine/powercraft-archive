@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile
+END
+EntityFireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityFireball.java
+END
+EntitySnowball.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntitySnowball.java
+END
+EntityEgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityEgg.java
+END
+EntityThrowable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityThrowable.java
+END
+EntityPotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityPotion.java
+END
+EntitySmallFireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntitySmallFireball.java
+END
+EntityFishHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityFishHook.java
+END
+EntityArrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityArrow.java
+END
+EntityLargeFireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityLargeFireball.java
+END
+EntityWitherSkull.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/projectile/EntityWitherSkull.java
+END

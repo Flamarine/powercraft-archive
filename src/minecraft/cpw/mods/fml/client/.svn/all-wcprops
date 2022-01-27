@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client
+END
+GuiScrollingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiScrollingList.java
+END
+FMLTextureFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/FMLTextureFX.java
+END
+GuiModsMissingForServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiModsMissingForServer.java
+END
+GuiModsMissing.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiModsMissing.java
+END
+SpriteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/SpriteHelper.java
+END
+ITextureFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/ITextureFX.java
+END
+FMLClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/FMLClientHandler.java
+END
+GuiModList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiModList.java
+END
+GuiDupesFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiDupesFound.java
+END
+GuiSlotModList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiSlotModList.java
+END
+GuiCustomModLoadingErrorScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiCustomModLoadingErrorScreen.java
+END
+CustomModLoadingErrorDisplayException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/CustomModLoadingErrorDisplayException.java
+END
+GuiIdMismatchScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiIdMismatchScreen.java
+END
+TextureFXManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/TextureFXManager.java
+END
+GuiWrongMinecraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/GuiWrongMinecraft.java
+END
+OverrideInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/OverrideInfo.java
+END

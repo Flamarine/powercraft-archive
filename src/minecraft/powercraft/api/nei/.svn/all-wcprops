@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/nei
+END
+PC_NEIGuiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/nei/PC_NEIGuiHandler.java
+END
+PC_NEIPowerCraftConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/nei/PC_NEIPowerCraftConfig.java
+END
+PC_ShapedRecipeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/nei/PC_ShapedRecipeHandler.java
+END
+PC_ShapelessRecipeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/nei/PC_ShapelessRecipeHandler.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management
+END
+PlayerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/PlayerManager.java
+END
+ServerConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/ServerConfigurationManager.java
+END
+PlayerPositionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/PlayerPositionComparator.java
+END
+BanList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/BanList.java
+END
+LowerStringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/LowerStringMap.java
+END
+PlayerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/PlayerInstance.java
+END
+BanEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/server/management/BanEntry.java
+END

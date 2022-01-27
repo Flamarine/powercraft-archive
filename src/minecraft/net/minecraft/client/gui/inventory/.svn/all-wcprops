@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory
+END
+CreativeCrafting.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/CreativeCrafting.java
+END
+SlotCreativeInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/SlotCreativeInventory.java
+END
+GuiContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiContainer.java
+END
+GuiFurnace.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiFurnace.java
+END
+GuiBeaconButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBeaconButton.java
+END
+GuiBrewingStand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBrewingStand.java
+END
+GuiBeacon.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBeacon.java
+END
+GuiBeaconButtonCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBeaconButtonCancel.java
+END
+GuiDispenser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiDispenser.java
+END
+GuiCrafting.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiCrafting.java
+END
+GuiInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiInventory.java
+END
+ContainerCreative.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/ContainerCreative.java
+END
+GuiBeaconButtonPower.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBeaconButtonPower.java
+END
+GuiBeaconButtonConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiBeaconButtonConfirm.java
+END
+GuiContainerCreative.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiContainerCreative.java
+END
+GuiEditSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiEditSign.java
+END
+GuiChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/inventory/GuiChest.java
+END

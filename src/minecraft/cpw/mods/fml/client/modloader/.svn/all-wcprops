@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/modloader
+END
+ModLoaderClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/modloader/ModLoaderClientHelper.java
+END
+ModLoaderBlockRendererHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/modloader/ModLoaderBlockRendererHandler.java
+END
+ModLoaderKeyBindingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/modloader/ModLoaderKeyBindingHandler.java
+END

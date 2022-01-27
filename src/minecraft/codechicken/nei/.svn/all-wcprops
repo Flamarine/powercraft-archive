@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei
+END
+Button2ActiveState.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/Button2ActiveState.java
+END
+ServerPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ServerPacketHandler.java
+END
+SlotBlockArmor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/SlotBlockArmor.java
+END
+inv.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/inv.png
+END
+DropDownWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/DropDownWidget.java
+END
+NEIClientConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIClientConfig.java
+END
+NEICreativeGuiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEICreativeGuiHandler.java
+END
+PositionedStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/PositionedStack.java
+END
+GuiExtendedCreativeInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiExtendedCreativeInv.java
+END
+GuiOptionButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiOptionButton.java
+END
+ClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ClientHandler.java
+END
+InterActionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/InterActionMap.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/Label.java
+END
+ContainerCreativeInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ContainerCreativeInv.java
+END
+EnchantmentInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/EnchantmentInputHandler.java
+END
+MultiItemRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/MultiItemRange.java
+END
+ContainerEnchantmentModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ContainerEnchantmentModifier.java
+END
+LayoutStyleMinecraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/LayoutStyleMinecraft.java
+END
+GuiEnchantmentModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiEnchantmentModifier.java
+END
+HUDAugmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/HUDAugmenter.java
+END
+NEIServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIServerConfig.java
+END
+SaveLoadButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/SaveLoadButton.java
+END
+GuiNEIBlockIDs.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiNEIBlockIDs.java
+END
+NEIClientUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIClientUtils.java
+END
+ItemMobSpawner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemMobSpawner.java
+END
+GuiNEIOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiNEIOptions.java
+END
+ExtendedCreativeInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ExtendedCreativeInv.java
+END
+ItemQuantityField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemQuantityField.java
+END
+ItemHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemHash.java
+END
+ServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ServerHandler.java
+END
+SpawnerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/SpawnerRenderer.java
+END
+LayoutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/LayoutManager.java
+END
+TMIUninstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/TMIUninstaller.java
+END
+PlayerSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/PlayerSave.java
+END
+UnusedBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/UnusedBlock.java
+END
+NEIServerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIServerUtils.java
+END
+InfiniteStackSizeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/InfiniteStackSizeHandler.java
+END
+InventoryCraftingDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/InventoryCraftingDummy.java
+END
+ItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemList.java
+END
+AllowedPropertyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/AllowedPropertyMap.java
+END
+InfiniteToolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/InfiniteToolHandler.java
+END
+LayoutStyleDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/LayoutStyleDefault.java
+END
+GuiNEIControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiNEIControls.java
+END
+ItemPanelStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemPanelStack.java
+END
+NEICompatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEICompatibility.java
+END
+NEIChestGuiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIChestGuiHandler.java
+END
+VisiblityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/VisiblityData.java
+END
+ItemRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemRange.java
+END
+SubSetRangeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/SubSetRangeTag.java
+END
+NEIController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIController.java
+END
+nei_sprites.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/nei_sprites.png
+END
+NEIInventoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/NEIInventoryHandler.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/TextField.java
+END
+DropDownFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/DropDownFile.java
+END
+FastTransferManger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/FastTransferManger.java
+END
+GuiNEISettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiNEISettings.java
+END
+OffsetPositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/OffsetPositioner.java
+END
+ClientPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ClientPacketHandler.java
+END
+LayoutStyleTMIOld.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/LayoutStyleTMIOld.java
+END
+WidgetZOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/WidgetZOrder.java
+END
+SearchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/SearchField.java
+END
+ItemVisibilityHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemVisibilityHash.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/Button.java
+END
+GuiNEIButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/GuiNEIButton.java
+END
+ItemPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/ItemPanel.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/Image.java
+END
+recipebg.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/recipebg.png
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/Widget.java
+END

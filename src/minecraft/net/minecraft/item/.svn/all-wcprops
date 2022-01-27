@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item
+END
+ItemSnowball.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSnowball.java
+END
+ItemSlab.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSlab.java
+END
+ItemGlassBottle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemGlassBottle.java
+END
+ItemEditableBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEditableBook.java
+END
+ItemSoup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSoup.java
+END
+ItemSeedFood.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSeedFood.java
+END
+ItemSkull.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSkull.java
+END
+ItemFishingRod.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFishingRod.java
+END
+ItemSpade.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSpade.java
+END
+EnumToolMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/EnumToolMaterial.java
+END
+ItemMinecart.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemMinecart.java
+END
+EnumArmorMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/EnumArmorMaterial.java
+END
+ItemStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemStack.java
+END
+ItemAppleGold.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemAppleGold.java
+END
+ItemInWorldManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemInWorldManager.java
+END
+ItemPiston.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemPiston.java
+END
+ItemRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemRecord.java
+END
+ItemReed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemReed.java
+END
+ItemEnderPearl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEnderPearl.java
+END
+EnumAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/EnumAction.java
+END
+ItemPickaxe.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemPickaxe.java
+END
+ItemCarrotOnAStick.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemCarrotOnAStick.java
+END
+ItemMultiTextureTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemMultiTextureTile.java
+END
+ItemBucketMilk.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBucketMilk.java
+END
+ItemBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBlock.java
+END
+ItemFlintAndSteel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFlintAndSteel.java
+END
+ItemEmptyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEmptyMap.java
+END
+ItemEnderEye.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEnderEye.java
+END
+ItemFireworkCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFireworkCharge.java
+END
+ItemDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemDoor.java
+END
+ItemEnchantedBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEnchantedBook.java
+END
+ItemHangingEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemHangingEntity.java
+END
+ItemMapBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemMapBase.java
+END
+ItemPotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemPotion.java
+END
+ItemCloth.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemCloth.java
+END
+ItemHoe.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemHoe.java
+END
+ItemArmor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemArmor.java
+END
+ItemDye.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemDye.java
+END
+ItemRedstone.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemRedstone.java
+END
+ItemAnvilBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemAnvilBlock.java
+END
+ItemBow.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBow.java
+END
+ItemFirework.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFirework.java
+END
+ItemBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBook.java
+END
+ItemBed.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBed.java
+END
+ItemSaddle.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSaddle.java
+END
+ItemSword.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSword.java
+END
+ItemEgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemEgg.java
+END
+ItemSeeds.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSeeds.java
+END
+ItemSimpleFoiled.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSimpleFoiled.java
+END
+ItemAxe.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemAxe.java
+END
+ItemBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBucket.java
+END
+ItemCoal.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemCoal.java
+END
+ItemLeaves.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemLeaves.java
+END
+EnumRarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/EnumRarity.java
+END
+ItemWritableBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemWritableBook.java
+END
+ItemBoat.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemBoat.java
+END
+ItemShears.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemShears.java
+END
+ItemFood.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFood.java
+END
+ItemColored.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemColored.java
+END
+ItemLilyPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemLilyPad.java
+END
+ItemSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemSign.java
+END
+ItemExpBottle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemExpBottle.java
+END
+ItemMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemMap.java
+END
+ItemTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemTool.java
+END
+ItemMonsterPlacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemMonsterPlacer.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/Item.java
+END
+ItemFireball.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/item/ItemFireball.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon
+END
+RConThreadMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConThreadMain.java
+END
+RConOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConOutputStream.java
+END
+IServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/IServer.java
+END
+RConThreadQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConThreadQuery.java
+END
+RConThreadQueryAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConThreadQueryAuth.java
+END
+RConUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConUtils.java
+END
+RConThreadBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConThreadBase.java
+END
+RConConsoleSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConConsoleSource.java
+END
+RConThreadClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/network/rcon/RConThreadClient.java
+END

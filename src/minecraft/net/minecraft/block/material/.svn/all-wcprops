@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material
+END
+MaterialLiquid.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MaterialLiquid.java
+END
+MaterialWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MaterialWeb.java
+END
+MapColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MapColor.java
+END
+MaterialLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MaterialLogic.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/Material.java
+END
+MaterialTransparent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MaterialTransparent.java
+END
+MaterialPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/material/MaterialPortal.java
+END

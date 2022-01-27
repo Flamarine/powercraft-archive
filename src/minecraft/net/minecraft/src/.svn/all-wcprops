@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src
+END
+MLProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/MLProp.java
+END
+BaseMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/BaseMod.java
+END
+ModTextureAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/ModTextureAnimation.java
+END
+TradeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/TradeEntry.java
+END
+FMLRenderAccessLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/FMLRenderAccessLibrary.java
+END
+EntityRendererProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/EntityRendererProxy.java
+END
+ModLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/ModLoader.java
+END
+ModTextureStatic.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/src/ModTextureStatic.java
+END

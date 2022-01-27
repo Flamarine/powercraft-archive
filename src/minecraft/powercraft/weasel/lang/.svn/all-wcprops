@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang
+END
+InstructionPause.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionPause.java
+END
+Instruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/Instruction.java
+END
+InstructionPush.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionPush.java
+END
+InstructionLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionLabel.java
+END
+InstructionReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionReturn.java
+END
+InstructionAssign.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionAssign.java
+END
+InstructionRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionRestart.java
+END
+InstructionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionFunction.java
+END
+InstructionIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionIf.java
+END
+InstructionPop.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionPop.java
+END
+InstructionStringCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionStringCall.java
+END
+InstructionAssignRetval.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionAssignRetval.java
+END
+InstructionEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionEnd.java
+END
+InstructionGoto.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionGoto.java
+END
+InstructionCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/lang/InstructionCall.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/culling
+END
+ClippingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/culling/ClippingHelper.java
+END
+ClippingHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/culling/ClippingHelperImpl.java
+END
+Frustrum.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/culling/Frustrum.java
+END
+ICamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/culling/ICamera.java
+END

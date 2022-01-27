@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks
+END
+TexturePackCustom.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackCustom.java
+END
+TexturePackList.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackList.java
+END
+TexturePackFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackFolder.java
+END
+TexturePackDownloadSuccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackDownloadSuccess.java
+END
+TexturePackDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackDefault.java
+END
+TexturePackImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/TexturePackImplementation.java
+END
+GuiTexturePackSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/GuiTexturePackSlot.java
+END
+GuiTexturePacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/GuiTexturePacks.java
+END
+ITexturePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/texturepacks/ITexturePack.java
+END

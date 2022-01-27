@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/net/minecraft/client
+END
+MinecraftAppletImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/MinecraftAppletImpl.java
+END
+StatStringFormatKeyInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/StatStringFormatKeyInv.java
+END
+CallableClientProfiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableClientProfiler.java
+END
+ThreadShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/ThreadShutdown.java
+END
+CallableLWJGLVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableLWJGLVersion.java
+END
+EnumOSHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/EnumOSHelper.java
+END
+CallableClientMemoryStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableClientMemoryStats.java
+END
+GameWindowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/GameWindowListener.java
+END
+Minecraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/Minecraft.java
+END
+CallableTickingScreenName.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableTickingScreenName.java
+END
+CanvasMinecraftApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CanvasMinecraftApplet.java
+END
+CallableModded.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableModded.java
+END
+PanelCrashReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/PanelCrashReport.java
+END
+ClientBrandRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/ClientBrandRetriever.java
+END
+MinecraftApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/MinecraftApplet.java
+END
+CallableTexturePack.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableTexturePack.java
+END
+MinecraftFakeLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/MinecraftFakeLauncher.java
+END
+CallableType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableType2.java
+END
+CanvasCrashReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CanvasCrashReport.java
+END
+CanvasMojangLogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CanvasMojangLogo.java
+END
+CallableUpdatingScreenName.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableUpdatingScreenName.java
+END
+CallableGLInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/CallableGLInfo.java
+END
+ThreadClientSleep.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/ThreadClientSleep.java
+END

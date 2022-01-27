@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command
+END
+CommandGameMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandGameMode.java
+END
+CommandServerSaveAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerSaveAll.java
+END
+CommandServerDeop.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerDeop.java
+END
+NumberInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/NumberInvalidException.java
+END
+SyntaxErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/SyntaxErrorException.java
+END
+CommandEnchant.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandEnchant.java
+END
+CommandServerSaveOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerSaveOff.java
+END
+CommandServerBanlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerBanlist.java
+END
+CommandServerSay.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerSay.java
+END
+CommandDefaultGameMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandDefaultGameMode.java
+END
+ICommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/ICommandManager.java
+END
+IEntitySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/IEntitySelector.java
+END
+ICommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/ICommand.java
+END
+ICommandSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/ICommandSender.java
+END
+CommandGive.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandGive.java
+END
+CommandTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandTime.java
+END
+CommandGameRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandGameRule.java
+END
+WrongUsageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/WrongUsageException.java
+END
+CommandServerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerList.java
+END
+CommandServerPardonIp.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerPardonIp.java
+END
+CommandServerWhitelist.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerWhitelist.java
+END
+CommandServerOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerOp.java
+END
+CommandServerKick.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerKick.java
+END
+CommandServerTp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerTp.java
+END
+CommandServerPardon.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerPardon.java
+END
+CommandServerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerMessage.java
+END
+CommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandHandler.java
+END
+CommandSetSpawnpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandSetSpawnpoint.java
+END
+CommandServerBanIp.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerBanIp.java
+END
+CommandShowSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandShowSeed.java
+END
+CommandServerSaveOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerSaveOn.java
+END
+CommandDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandDebug.java
+END
+CommandXP.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandXP.java
+END
+CommandServerBan.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerBan.java
+END
+CommandHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandHelp.java
+END
+PlayerNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/PlayerNotFoundException.java
+END
+CommandKill.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandKill.java
+END
+CommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandException.java
+END
+PlayerSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/PlayerSelector.java
+END
+CommandWeather.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandWeather.java
+END
+CommandServerEmote.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerEmote.java
+END
+ServerCommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/ServerCommandManager.java
+END
+IAdminCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/IAdminCommand.java
+END
+CommandDifficulty.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandDifficulty.java
+END
+CommandClearInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandClearInventory.java
+END
+ServerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/ServerCommand.java
+END
+CommandServerPublishLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerPublishLocal.java
+END
+CommandToggleDownfall.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandToggleDownfall.java
+END
+CommandBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandBase.java
+END
+CommandNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandNotFoundException.java
+END
+CommandServerStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/command/CommandServerStop.java
+END

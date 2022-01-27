@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt
+END
+NBTTagIntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagIntArray.java
+END
+NBTTagInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagInt.java
+END
+NBTTagLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagLong.java
+END
+NBTTagShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagShort.java
+END
+CompressedStreamTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/CompressedStreamTools.java
+END
+NBTTagByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagByteArray.java
+END
+NBTTagByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagByte.java
+END
+NBTTagFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagFloat.java
+END
+NBTTagEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagEnd.java
+END
+NBTTagString.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagString.java
+END
+NBTTagDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagDouble.java
+END
+NBTTagList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagList.java
+END
+NBTBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTBase.java
+END
+CallableTagCompound1.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/CallableTagCompound1.java
+END
+CallableTagCompound2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/CallableTagCompound2.java
+END
+NBTTagCompound.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/nbt/NBTTagCompound.java
+END

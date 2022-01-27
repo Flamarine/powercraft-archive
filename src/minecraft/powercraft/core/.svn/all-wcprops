@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core
+END
+PCco_ClientMobSpawnerSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ClientMobSpawnerSetter.java
+END
+PCco_MobSpawnerSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_MobSpawnerSetter.java
+END
+PCco_GuiOreSnifferResultScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_GuiOreSnifferResultScreen.java
+END
+PCco_BlockPowerCrystal.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_BlockPowerCrystal.java
+END
+PCco_ItemBlockSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemBlockSaver.java
+END
+PCco_ItemCraftingTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemCraftingTool.java
+END
+PCco_ItemActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemActivator.java
+END
+PCco_ItemPowerDust.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemPowerDust.java
+END
+PCco_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_AppClient.java
+END
+PCco_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_App.java
+END
+PCco_ItemOreSniffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemOreSniffer.java
+END
+PCco_DeleteAllPlayerStacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_DeleteAllPlayerStacks.java
+END
+PCco_CraftingToolLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_CraftingToolLoader.java
+END
+PCco_SlotTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_SlotTrash.java
+END
+PCco_ItemBlockPowerCrystal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ItemBlockPowerCrystal.java
+END
+PCco_SlotDirectCrafting.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_SlotDirectCrafting.java
+END
+PCco_GuiSpawnerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_GuiSpawnerEditor.java
+END
+PCco_ContainerCraftingTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_ContainerCraftingTool.java
+END
+PCco_GuiCraftingTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/core/PCco_GuiCraftingTool.java
+END

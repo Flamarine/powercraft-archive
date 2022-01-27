@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/entity
+END
+EntityClientPlayerMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/entity/EntityClientPlayerMP.java
+END
+EntityOtherPlayerMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/entity/EntityOtherPlayerMP.java
+END
+EntityPlayerSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/entity/EntityPlayerSP.java
+END

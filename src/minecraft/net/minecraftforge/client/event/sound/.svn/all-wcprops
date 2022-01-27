@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound
+END
+PlayBackgroundMusicEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlayBackgroundMusicEvent.java
+END
+SoundResultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/SoundResultEvent.java
+END
+SoundEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/SoundEvent.java
+END
+SoundLoadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/SoundLoadEvent.java
+END
+SoundSetupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/SoundSetupEvent.java
+END
+PlaySoundEffectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlaySoundEffectEvent.java
+END
+PlaySoundEffectSourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlaySoundEffectSourceEvent.java
+END
+PlaySoundEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlaySoundEvent.java
+END
+PlayStreamingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlayStreamingEvent.java
+END
+PlaySoundSourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlaySoundSourceEvent.java
+END
+PlayStreamingSourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/event/sound/PlayStreamingSourceEvent.java
+END

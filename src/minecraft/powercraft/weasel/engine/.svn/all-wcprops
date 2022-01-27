@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine
+END
+WeaselEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/WeaselEngine.java
+END
+IWeaselHardware.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/IWeaselHardware.java
+END
+IVariableProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/IVariableProvider.java
+END
+IFunctionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/IFunctionProvider.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/Compiler.java
+END
+InstructionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/InstructionList.java
+END
+WeaselFunctionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/WeaselFunctionManager.java
+END
+Calc.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/engine/Calc.java
+END

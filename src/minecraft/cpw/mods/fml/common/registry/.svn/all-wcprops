@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry
+END
+BlockProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/BlockProxy.java
+END
+LanguageRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/LanguageRegistry.java
+END
+IThrowableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/IThrowableEntity.java
+END
+VillagerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/VillagerRegistry.java
+END
+ItemProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/ItemProxy.java
+END
+IEntityAdditionalSpawnData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/IEntityAdditionalSpawnData.java
+END
+GameRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/GameRegistry.java
+END
+TickRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/TickRegistry.java
+END
+GameData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/GameData.java
+END
+EntityRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/EntityRegistry.java
+END
+BlockTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/BlockTracker.java
+END
+ItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/registry/ItemData.java
+END

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines
+END
+PCma_TileEntityTransmutabox.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityTransmutabox.java
+END
+PCma_TileEntityAutomaticWorkbench.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityAutomaticWorkbench.java
+END
+PCma_TileEntityReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityReplacer.java
+END
+PCma_SlotAutomaticWorkbenchInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_SlotAutomaticWorkbenchInventory.java
+END
+PCma_TileEntityChunkLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityChunkLoader.java
+END
+PCma_TileEntityBlockBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityBlockBuilder.java
+END
+PCma_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_AppClient.java
+END
+PCma_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_App.java
+END
+PCma_ContainerRoaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ContainerRoaster.java
+END
+PCma_GuiRoaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiRoaster.java
+END
+PCma_BlockFishingMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockFishingMachine.java
+END
+PCma_GuiXPBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiXPBank.java
+END
+PCma_CropHarvestingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_CropHarvestingManager.java
+END
+PCma_BlockRoaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockRoaster.java
+END
+PCma_ContainerTransmutabox.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ContainerTransmutabox.java
+END
+PCma_SlotAutomaticWorkbenchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_SlotAutomaticWorkbenchResult.java
+END
+PCma_ContainerAutomaticWorkbench.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ContainerAutomaticWorkbench.java
+END
+PCma_GuiTransmutabox.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiTransmutabox.java
+END
+PCma_BlockXPBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockXPBank.java
+END
+PCma_GuiAutomaticWorkbench.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiAutomaticWorkbench.java
+END
+PCma_ContainerReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ContainerReplacer.java
+END
+PCma_BlockTransmutabox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockTransmutabox.java
+END
+PCma_GuiReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiReplacer.java
+END
+PCma_ContainerBlockBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ContainerBlockBuilder.java
+END
+PCma_BlockAutomaticWorkbench.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockAutomaticWorkbench.java
+END
+PCma_GuiBlockBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_GuiBlockBuilder.java
+END
+PCma_BlockReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockReplacer.java
+END
+PCma_ItemRanking.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ItemRanking.java
+END
+PCma_BlockChunkLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockChunkLoader.java
+END
+PCma_BlockBlockBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockBlockBuilder.java
+END
+PCma_BlockHarvester.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_BlockHarvester.java
+END
+PCma_TreeHarvestingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TreeHarvestingManager.java
+END
+PCma_TileEntityFishingMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityFishingMachine.java
+END
+PCma_TileEntityRoaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityRoaster.java
+END
+PCma_ModelFishingMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_ModelFishingMachine.java
+END
+PCma_TileEntityXPBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/machines/PCma_TileEntityXPBank.java
+END

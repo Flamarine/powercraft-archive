@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai
+END
+EntityAILookIdle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAILookIdle.java
+END
+EntityAIWatchClosest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIWatchClosest.java
+END
+EntityAIOwnerHurtTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIOwnerHurtTarget.java
+END
+RandomPositionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/RandomPositionGenerator.java
+END
+EntityAIOcelotSit.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIOcelotSit.java
+END
+EntityAIPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIPlay.java
+END
+EntityAIBreakDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIBreakDoor.java
+END
+EntityAIBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIBase.java
+END
+EntityAIMoveThroughVillage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIMoveThroughVillage.java
+END
+EntityAITargetNonTamed.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITargetNonTamed.java
+END
+EntityAIVillagerMate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIVillagerMate.java
+END
+EntityAIControlledByPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIControlledByPlayer.java
+END
+EntityAILeapAtTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAILeapAtTarget.java
+END
+EntityAILookAtVillager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAILookAtVillager.java
+END
+EntityAIWander.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIWander.java
+END
+EntityAIArrowAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIArrowAttack.java
+END
+EntityAINearestAttackableTargetSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAINearestAttackableTargetSorter.java
+END
+EntityAIHurtByTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIHurtByTarget.java
+END
+EntityAIRestrictSun.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIRestrictSun.java
+END
+EntityAIWatchClosest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIWatchClosest2.java
+END
+EntityAIOpenDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIOpenDoor.java
+END
+EntityAIMate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIMate.java
+END
+EntityAITempt.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITempt.java
+END
+EntityAISwimming.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAISwimming.java
+END
+EntityAICreeperSwell.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAICreeperSwell.java
+END
+EntityAIBeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIBeg.java
+END
+EntityAIAvoidEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIAvoidEntity.java
+END
+EntityAIOwnerHurtByTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIOwnerHurtByTarget.java
+END
+EntityAIFleeSun.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIFleeSun.java
+END
+EntityJumpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityJumpHelper.java
+END
+EntityAIMoveIndoors.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIMoveIndoors.java
+END
+EntityAIRestrictOpenDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIRestrictOpenDoor.java
+END
+EntityAIEatGrass.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIEatGrass.java
+END
+EntityAITradePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITradePlayer.java
+END
+EntityAIFollowParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIFollowParent.java
+END
+EntityAIOcelotAttack.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIOcelotAttack.java
+END
+EntityAIFollowOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIFollowOwner.java
+END
+EntityAIMoveTowardsTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIMoveTowardsTarget.java
+END
+EntityAIMoveTwardsRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIMoveTwardsRestriction.java
+END
+EntityAITaskEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITaskEntry.java
+END
+EntityAINearestAttackableTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAINearestAttackableTarget.java
+END
+EntityAITasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITasks.java
+END
+EntitySenses.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntitySenses.java
+END
+EntityAIFollowGolem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIFollowGolem.java
+END
+EntityAITarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAITarget.java
+END
+EntityAILookAtTradePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAILookAtTradePlayer.java
+END
+EntityAIDefendVillage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIDefendVillage.java
+END
+EntityLookHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityLookHelper.java
+END
+EntityAIPanic.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIPanic.java
+END
+EntityMoveHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityMoveHelper.java
+END
+EntityAIDoorInteract.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIDoorInteract.java
+END
+EntityAISit.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAISit.java
+END
+EntityAIAttackOnCollide.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/entity/ai/EntityAIAttackOnCollide.java
+END

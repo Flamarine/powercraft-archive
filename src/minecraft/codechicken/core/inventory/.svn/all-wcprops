@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory
+END
+InventoryCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/InventoryCopy.java
+END
+InventoryRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/InventoryRange.java
+END
+SlotDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/SlotDummy.java
+END
+SlotDummyOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/SlotDummyOutput.java
+END
+InventoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/InventoryUtils.java
+END
+ContainerExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/inventory/ContainerExtended.java
+END

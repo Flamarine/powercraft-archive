@@ -1,0 +1,707 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block
+END
+BlockEndPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockEndPortal.java
+END
+BlockObsidian.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockObsidian.java
+END
+BlockBed.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockBed.java
+END
+BlockSkull.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSkull.java
+END
+BlockLadder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLadder.java
+END
+BlockPistonMoving.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPistonMoving.java
+END
+BlockPressurePlate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPressurePlate.java
+END
+BlockSandStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSandStone.java
+END
+BlockSnowBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSnowBlock.java
+END
+BlockDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDoor.java
+END
+BlockFluid.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFluid.java
+END
+BlockStoneBrick.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStoneBrick.java
+END
+BlockCake.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCake.java
+END
+BlockTripWire.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTripWire.java
+END
+BlockStairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStairs.java
+END
+BlockJukeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockJukeBox.java
+END
+StepSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/StepSound.java
+END
+BlockGlass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockGlass.java
+END
+BlockRedstoneLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRedstoneLight.java
+END
+BlockDeadBush.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDeadBush.java
+END
+BlockGrass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockGrass.java
+END
+BlockMycelium.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockMycelium.java
+END
+BlockCrops.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCrops.java
+END
+BlockBeacon.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockBeacon.java
+END
+EnumMobType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/EnumMobType.java
+END
+BlockRedstoneOre.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRedstoneOre.java
+END
+BlockTrapDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTrapDoor.java
+END
+TileEntityRecordPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/TileEntityRecordPlayer.java
+END
+BlockTallGrass.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTallGrass.java
+END
+BlockDirectional.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDirectional.java
+END
+BlockDragonEgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDragonEgg.java
+END
+BlockStationary.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStationary.java
+END
+BlockMushroomCap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockMushroomCap.java
+END
+BlockFlower.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFlower.java
+END
+BlockLilyPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLilyPad.java
+END
+BlockPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPortal.java
+END
+BlockNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockNote.java
+END
+BlockFlowing.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFlowing.java
+END
+BlockPotato.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPotato.java
+END
+BlockChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockChest.java
+END
+BlockCloth.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCloth.java
+END
+BlockLeavesBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLeavesBase.java
+END
+BlockRedstoneWire.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRedstoneWire.java
+END
+BlockEventData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockEventData.java
+END
+BlockButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockButton.java
+END
+BlockStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStep.java
+END
+BlockEnchantmentTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockEnchantmentTable.java
+END
+BlockMobSpawner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockMobSpawner.java
+END
+BlockWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockWeb.java
+END
+BlockTorch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTorch.java
+END
+BlockDetectorRail.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDetectorRail.java
+END
+BlockGlowStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockGlowStone.java
+END
+BlockLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLog.java
+END
+BlockSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSourceImpl.java
+END
+BlockFurnace.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFurnace.java
+END
+BlockSand.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSand.java
+END
+BlockNetherrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockNetherrack.java
+END
+BlockBrewingStand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockBrewingStand.java
+END
+BlockClay.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockClay.java
+END
+BlockLockedChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLockedChest.java
+END
+BlockSoulSand.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSoulSand.java
+END
+BlockCommandBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCommandBlock.java
+END
+RailLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/RailLogic.java
+END
+BlockDispenser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDispenser.java
+END
+BlockWall.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockWall.java
+END
+BlockIce.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockIce.java
+END
+BlockSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSign.java
+END
+BlockDirt.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockDirt.java
+END
+StepSoundAnvil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/StepSoundAnvil.java
+END
+BlockWood.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockWood.java
+END
+BlockBreakable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockBreakable.java
+END
+BlockStem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStem.java
+END
+BlockMushroom.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockMushroom.java
+END
+BlockAnvil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockAnvil.java
+END
+BlockOreStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockOreStorage.java
+END
+BlockWoodSlab.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockWoodSlab.java
+END
+BlockMelon.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockMelon.java
+END
+BlockRedstoneRepeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRedstoneRepeater.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/Block.java
+END
+BlockFlowerPot.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFlowerPot.java
+END
+BlockContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockContainer.java
+END
+StepSoundStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/StepSoundStone.java
+END
+BlockPumpkin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPumpkin.java
+END
+BlockPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPane.java
+END
+BlockNetherStalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockNetherStalk.java
+END
+BlockFarmland.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFarmland.java
+END
+BlockEnderChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockEnderChest.java
+END
+BlockOre.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockOre.java
+END
+BlockFire.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFire.java
+END
+BlockSnow.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSnow.java
+END
+BlockStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockStone.java
+END
+BlockCarrot.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCarrot.java
+END
+BlockSponge.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSponge.java
+END
+BlockSapling.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSapling.java
+END
+BlockVine.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockVine.java
+END
+BlockEndPortalFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockEndPortalFrame.java
+END
+BlockTNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTNT.java
+END
+BlockPistonBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPistonBase.java
+END
+BlockCauldron.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCauldron.java
+END
+BlockPistonExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockPistonExtension.java
+END
+BlockHalfSlab.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockHalfSlab.java
+END
+BlockBookshelf.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockBookshelf.java
+END
+BlockLever.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLever.java
+END
+BlockSilverfish.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockSilverfish.java
+END
+BlockReed.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockReed.java
+END
+BlockLeaves.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockLeaves.java
+END
+StepSoundSand.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/StepSoundSand.java
+END
+BlockGravel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockGravel.java
+END
+BlockFence.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFence.java
+END
+BlockFenceGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockFenceGate.java
+END
+BlockWorkbench.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockWorkbench.java
+END
+BlockCactus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCactus.java
+END
+BlockRedstoneTorch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRedstoneTorch.java
+END
+BlockCocoa.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockCocoa.java
+END
+BlockTripWireSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockTripWireSource.java
+END
+RedstoneUpdateInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/RedstoneUpdateInfo.java
+END
+BlockRail.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/block/BlockRail.java
+END

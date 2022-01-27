@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light
+END
+PCli_BlockLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockLight.java
+END
+PCli_TileEntityLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityLight.java
+END
+PCli_BlockMirror.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockMirror.java
+END
+PCli_TileEntityMirror.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityMirror.java
+END
+PCli_DamageSourceLaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_DamageSourceLaser.java
+END
+PCli_ModelLaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ModelLaser.java
+END
+PCli_ModelLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ModelLight.java
+END
+PCli_ModelMirror.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ModelMirror.java
+END
+PCli_ItemBlockLightningConductor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ItemBlockLightningConductor.java
+END
+PCli_TileEntityPrism.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityPrism.java
+END
+PCli_BlockPrism.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockPrism.java
+END
+PCli_ItemLaserComposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ItemLaserComposition.java
+END
+PCli_ModelPrism.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/906/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_ModelPrism.java
+END
+PCli_TileEntityLaserSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityLaserSensor.java
+END
+PCli_BlockLaserSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockLaserSensor.java
+END
+PCli_GuiLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_GuiLight.java
+END
+PCli_BlockLightningConductor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockLightningConductor.java
+END
+PCli_TileEntityLightningConductor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityLightningConductor.java
+END
+PCli_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_AppClient.java
+END
+PCli_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_App.java
+END
+PCli_TileEntityLaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_TileEntityLaser.java
+END
+PCli_BlockLaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/light/PCli_BlockLaser.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render
+END
+RenderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render/RenderUtils.java
+END
+Vertex5.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render/Vertex5.java
+END
+CCModelSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render/CCModelSection.java
+END
+CCTextureSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render/CCTextureSection.java
+END
+ShaderProgram.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/render/ShaderProgram.java
+END

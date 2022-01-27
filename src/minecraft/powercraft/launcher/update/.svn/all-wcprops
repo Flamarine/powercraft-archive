@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/launcher/update
+END
+PC_ThreadCheckUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1064/trunk/powercraft_147/src/minecraft/powercraft/launcher/update/PC_ThreadCheckUpdates.java
+END
+PC_UpdateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1077/trunk/powercraft_147/src/minecraft/powercraft/launcher/update/PC_UpdateManager.java
+END
+PC_UpdateXMLFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/launcher/update/PC_UpdateXMLFile.java
+END

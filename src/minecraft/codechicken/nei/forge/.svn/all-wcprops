@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge
+END
+IContainerClientSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerClientSide.java
+END
+IContainerObjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerObjectHandler.java
+END
+IContainerSlotClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerSlotClickHandler.java
+END
+GuiContainerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/GuiContainerManager.java
+END
+IContainerTooltipHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerTooltipHandler.java
+END
+IContainerDrawHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerDrawHandler.java
+END
+IContainerInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/IContainerInputHandler.java
+END
+DefaultSlotClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/forge/DefaultSlotClickHandler.java
+END

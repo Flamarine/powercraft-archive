@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function
+END
+MakeBit.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/MakeBit.java
+END
+ComplexPFMC.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ComplexPFMC.java
+END
+Multiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Multiply.java
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Random.java
+END
+Mean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Mean.java
+END
+ArcTanH.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcTanH.java
+END
+NumForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/NumForm.java
+END
+Assign.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Assign.java
+END
+Round.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Round.java
+END
+BitwiseOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/BitwiseOperation.java
+END
+Modulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Modulus.java
+END
+Cross.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Cross.java
+END
+Bool.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Bool.java
+END
+Power.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Power.java
+END
+Not.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Not.java
+END
+Tangent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Tangent.java
+END
+Sum.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Sum.java
+END
+StringChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/StringChar.java
+END
+Divide.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Divide.java
+END
+SineH.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/SineH.java
+END
+Logical.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Logical.java
+END
+ArcCosineH.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcCosineH.java
+END
+Cosine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Cosine.java
+END
+StrFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/StrFormat.java
+END
+Max.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Max.java
+END
+Binomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Binomial.java
+END
+HasNum.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/HasNum.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Range.java
+END
+Sine.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Sine.java
+END
+Num.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Num.java
+END
+Abs.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Abs.java
+END
+ArcCosine.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcCosine.java
+END
+StrLen.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/StrLen.java
+END
+Arg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Arg.java
+END
+TimeFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/TimeFunc.java
+END
+MakeColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/MakeColor.java
+END
+Ceil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Ceil.java
+END
+NaturalLogarithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/NaturalLogarithm.java
+END
+PostfixMathCommandI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/PostfixMathCommandI.java
+END
+Conjugate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Conjugate.java
+END
+UMinus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/UMinus.java
+END
+Floor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Floor.java
+END
+Real.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Real.java
+END
+ArcSine.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcSine.java
+END
+Dot.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Dot.java
+END
+Logarithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Logarithm.java
+END
+CosineH.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/CosineH.java
+END
+Add.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Add.java
+END
+If.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/If.java
+END
+LogicalFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/LogicalFn.java
+END
+LValueI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/LValueI.java
+END
+PostfixMathCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/PostfixMathCommand.java
+END
+Comparative.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Comparative.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/List.java
+END
+Polar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Polar.java
+END
+Imaginary.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Imaginary.java
+END
+SpecialEvaluationI.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/SpecialEvaluationI.java
+END
+Min.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Min.java
+END
+ArcTangent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcTangent.java
+END
+Subtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Subtract.java
+END
+TanH.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/TanH.java
+END
+ArcSineH.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcSineH.java
+END
+Exp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Exp.java
+END
+StrMorf.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/StrMorf.java
+END
+CallbackEvaluationI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/CallbackEvaluationI.java
+END
+MakeByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/MakeByte.java
+END
+SquareRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/SquareRoot.java
+END
+StringCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/StringCheck.java
+END
+Ele.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Ele.java
+END
+ArcTangent2.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/ArcTangent2.java
+END
+Str.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1066/trunk/powercraft_147/src/minecraft/powercraft/weasel/jep/function/Str.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment
+END
+EnchantmentArrowDamage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentArrowDamage.java
+END
+Empty3.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/Empty3.java
+END
+EnchantmentModifierDamage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentModifierDamage.java
+END
+EnchantmentArrowFire.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentArrowFire.java
+END
+EnchantmentArrowKnockback.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentArrowKnockback.java
+END
+EnumEnchantmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnumEnchantmentType.java
+END
+EnchantmentModifierLiving.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentModifierLiving.java
+END
+IEnchantmentModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/IEnchantmentModifier.java
+END
+EnchantmentDigging.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentDigging.java
+END
+EnchantmentDurability.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentDurability.java
+END
+EnchantmentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentData.java
+END
+EnchantmentOxygen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentOxygen.java
+END
+EnchantmentWaterWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentWaterWorker.java
+END
+EnchantmentThorns.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentThorns.java
+END
+EnchantmentDamage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentDamage.java
+END
+Enchantment.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/Enchantment.java
+END
+EnchantmentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentHelper.java
+END
+EnchantmentArrowInfinite.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentArrowInfinite.java
+END
+EnchantmentUntouching.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentUntouching.java
+END
+EnchantmentLootBonus.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentLootBonus.java
+END
+EnchantmentFireAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentFireAspect.java
+END
+EnchantmentKnockback.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentKnockback.java
+END
+EnchantmentProtection.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/enchantment/EnchantmentProtection.java
+END

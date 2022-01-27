@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block
+END
+PC_BlockOre.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block/PC_BlockOre.java
+END
+PC_WorldOreGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block/PC_WorldOreGenerator.java
+END
+PC_ItemBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block/PC_ItemBlock.java
+END
+PC_WorldGenMinableMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block/PC_WorldGenMinableMetadata.java
+END
+PC_Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/block/PC_Block.java
+END

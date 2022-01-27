@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle
+END
+EntityExplodeFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityExplodeFX.java
+END
+EntityCritFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityCritFX.java
+END
+EntityPortalFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityPortalFX.java
+END
+EntityFootStepFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFootStepFX.java
+END
+EntityNoteFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityNoteFX.java
+END
+EntityCloudFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityCloudFX.java
+END
+EntityReddustFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityReddustFX.java
+END
+EntityLargeExplodeFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityLargeExplodeFX.java
+END
+EntitySuspendFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntitySuspendFX.java
+END
+EntityCrit2FX.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityCrit2FX.java
+END
+EffectRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EffectRenderer.java
+END
+EntityDropParticleFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityDropParticleFX.java
+END
+EntityFireworkSparkFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFireworkSparkFX.java
+END
+EntityRainFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityRainFX.java
+END
+EntityPickupFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityPickupFX.java
+END
+EntityFireworkStarterFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFireworkStarterFX.java
+END
+EntityEnchantmentTableParticleFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityEnchantmentTableParticleFX.java
+END
+EntityHeartFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityHeartFX.java
+END
+EntitySpellParticleFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntitySpellParticleFX.java
+END
+EntitySnowShovelFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntitySnowShovelFX.java
+END
+EntityDiggingFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityDiggingFX.java
+END
+EntityHugeExplodeFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityHugeExplodeFX.java
+END
+EntitySmokeFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntitySmokeFX.java
+END
+EntityFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFX.java
+END
+EntityBreakingFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityBreakingFX.java
+END
+EntityLavaFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityLavaFX.java
+END
+EntityFlameFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFlameFX.java
+END
+EntityAuraFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityAuraFX.java
+END
+EntityFireworkOverlayFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityFireworkOverlayFX.java
+END
+EntitySplashFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntitySplashFX.java
+END
+EntityBubbleFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/particle/EntityBubbleFX.java
+END

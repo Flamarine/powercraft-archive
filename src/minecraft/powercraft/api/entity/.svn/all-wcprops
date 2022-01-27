@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity
+END
+PC_EntityLaserFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity/PC_EntityLaserFX.java
+END
+PC_FakePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity/PC_FakePlayer.java
+END
+PC_EntityLaserParticleFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity/PC_EntityLaserParticleFX.java
+END
+PC_EntityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity/PC_EntityItem.java
+END
+PC_EntityFanFX.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/api/entity/PC_EntityFanFX.java
+END

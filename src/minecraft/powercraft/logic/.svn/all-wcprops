@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic
+END
+PClo_BlockDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockDelayer.java
+END
+PClo_TileEntityDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntityDelayer.java
+END
+PClo_ItemBlockRepeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ItemBlockRepeater.java
+END
+PClo_ItemBlockFlipFlop.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ItemBlockFlipFlop.java
+END
+PClo_RepeaterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_RepeaterType.java
+END
+PClo_ItemBlockGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ItemBlockGate.java
+END
+PClo_ItemBlockSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ItemBlockSpecial.java
+END
+PClo_GuiPulsar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_GuiPulsar.java
+END
+PClo_FlipFlopType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/997/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_FlipFlopType.java
+END
+PClo_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_AppClient.java
+END
+PClo_ItemBlockDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ItemBlockDelayer.java
+END
+PClo_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_App.java
+END
+PClo_TileEntityPulsar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntityPulsar.java
+END
+PClo_BlockPulsar.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockPulsar.java
+END
+PClo_TileEntityRepeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntityRepeater.java
+END
+PClo_SpecialType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_SpecialType.java
+END
+PClo_BlockRepeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockRepeater.java
+END
+PClo_GateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_GateType.java
+END
+PClo_ContainerSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_ContainerSpecial.java
+END
+PClo_GuiSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_GuiSpecial.java
+END
+PClo_BlockFlipFlop.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockFlipFlop.java
+END
+PClo_TileEntityFlipFlop.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntityFlipFlop.java
+END
+PClo_DelayerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_DelayerType.java
+END
+PClo_GuiDelayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_GuiDelayer.java
+END
+PClo_BlockSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockSpecial.java
+END
+PClo_BlockGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_BlockGate.java
+END
+PClo_TileEntityGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntityGate.java
+END
+PClo_TileEntitySpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/logic/PClo_TileEntitySpecial.java
+END

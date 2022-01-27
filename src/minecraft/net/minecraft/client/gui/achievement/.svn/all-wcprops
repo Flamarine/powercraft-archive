@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement
+END
+SorterStatsBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/SorterStatsBlock.java
+END
+SorterStatsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/SorterStatsItem.java
+END
+GuiAchievement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiAchievement.java
+END
+GuiAchievements.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiAchievements.java
+END
+GuiSlotStatsBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiSlotStatsBlock.java
+END
+GuiStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiStats.java
+END
+GuiSlotStatsGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiSlotStatsGeneral.java
+END
+GuiSlotStatsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiSlotStatsItem.java
+END
+GuiSlotStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/gui/achievement/GuiSlotStats.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/asm/transformers
+END
+MCPMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/asm/transformers/MCPMerger.java
+END
+AccessTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/asm/transformers/AccessTransformer.java
+END
+MarkerTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/asm/transformers/MarkerTransformer.java
+END
+SideTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/asm/transformers/SideTransformer.java
+END

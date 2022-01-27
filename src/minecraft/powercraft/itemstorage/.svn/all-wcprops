@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage
+END
+PCis_CompressorInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_CompressorInventory.java
+END
+PCis_EntityItemInBigChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_EntityItemInBigChest.java
+END
+PCis_ItemCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_ItemCompressor.java
+END
+PCis_HightCompressorInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_HightCompressorInventory.java
+END
+PCis_ContainerCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_ContainerCompressor.java
+END
+PCis_AppClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_AppClient.java
+END
+PCis_App.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_App.java
+END
+PCis_GuiCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_GuiCompressor.java
+END
+PCis_TileEntityBigChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_TileEntityBigChest.java
+END
+PCis_BlockBigChest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_BlockBigChest.java
+END
+PCis_NormalCompressorInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_NormalCompressorInventory.java
+END
+PCis_BigChestInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_BigChestInventory.java
+END
+PCis_EnderCompressorInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/powercraft/itemstorage/PCis_EnderCompressorInventory.java
+END

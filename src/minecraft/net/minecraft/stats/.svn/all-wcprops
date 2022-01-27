@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats
+END
+AchievementList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/AchievementList.java
+END
+IStatStringFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/IStatStringFormat.java
+END
+IStatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/IStatType.java
+END
+AchievementMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/AchievementMap.java
+END
+StatTypeSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatTypeSimple.java
+END
+Achievement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/Achievement.java
+END
+StatTypeDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatTypeDistance.java
+END
+StatCrafting.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatCrafting.java
+END
+StatsSyncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatsSyncher.java
+END
+StatTypeTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatTypeTime.java
+END
+ThreadStatSyncherReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/ThreadStatSyncherReceive.java
+END
+StatBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatBase.java
+END
+StatList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatList.java
+END
+StatFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatFileWriter.java
+END
+ThreadStatSyncherSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/ThreadStatSyncherSend.java
+END
+StatBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/stats/StatBasic.java
+END

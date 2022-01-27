@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery
+END
+ITypeDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/ITypeDiscoverer.java
+END
+ASMDataTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/ASMDataTable.java
+END
+JarDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/JarDiscoverer.java
+END
+ContainerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/ContainerType.java
+END
+ModDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/ModDiscoverer.java
+END
+DirectoryDiscoverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/DirectoryDiscoverer.java
+END
+ModCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/common/discovery/ModCandidate.java
+END

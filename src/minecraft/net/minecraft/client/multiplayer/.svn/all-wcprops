@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer
+END
+ChunkProviderClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ChunkProviderClient.java
+END
+NetClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1070/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/NetClientHandler.java
+END
+WorldClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/WorldClient.java
+END
+NetClientWebTextures.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/NetClientWebTextures.java
+END
+CallableMPL1.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/CallableMPL1.java
+END
+CallableMPL2.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/CallableMPL2.java
+END
+ThreadLanServerFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ThreadLanServerFind.java
+END
+GuiConnecting.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/GuiConnecting.java
+END
+LanServerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/LanServerList.java
+END
+PlayerControllerMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/PlayerControllerMP.java
+END
+ServerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ServerData.java
+END
+LanServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/LanServer.java
+END
+ServerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ServerList.java
+END
+ThreadLanServerPing.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ThreadLanServerPing.java
+END
+ThreadConnectToServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ThreadConnectToServer.java
+END
+ServerAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/multiplayer/ServerAddress.java
+END

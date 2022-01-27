@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api
+END
+DefaultOverlayRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/DefaultOverlayRenderer.java
+END
+IHighlightIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IHighlightIdentifier.java
+END
+IConfigureNEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IConfigureNEI.java
+END
+INEIGuiHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/INEIGuiHandler.java
+END
+IOverlayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IOverlayHandler.java
+END
+INEIGuiAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/INEIGuiAdapter.java
+END
+IStackPositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IStackPositioner.java
+END
+IInfiniteItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IInfiniteItemHandler.java
+END
+LayoutStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/LayoutStyle.java
+END
+GuiInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/GuiInfo.java
+END
+TaggedInventoryArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/TaggedInventoryArea.java
+END
+IGuiContainerOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IGuiContainerOverlay.java
+END
+IRecipeOverlayRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/IRecipeOverlayRenderer.java
+END
+API.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/API.java
+END
+ItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/nei/api/ItemInfo.java
+END

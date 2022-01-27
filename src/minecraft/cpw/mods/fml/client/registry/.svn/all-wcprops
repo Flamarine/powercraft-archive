@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/registry
+END
+RenderingRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/registry/RenderingRegistry.java
+END
+ClientRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/registry/ClientRegistry.java
+END
+ISimpleBlockRenderingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/registry/ISimpleBlockRenderingHandler.java
+END
+KeyBindingRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/client/registry/KeyBindingRegistry.java
+END

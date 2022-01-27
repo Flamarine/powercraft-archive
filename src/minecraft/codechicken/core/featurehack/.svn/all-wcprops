@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/featurehack
+END
+EntityRenderHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/featurehack/EntityRenderHook.java
+END
+RenderEntityRenderHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/featurehack/RenderEntityRenderHook.java
+END
+GameDataManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/featurehack/GameDataManipulator.java
+END
+EntityUpdateHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/featurehack/EntityUpdateHook.java
+END

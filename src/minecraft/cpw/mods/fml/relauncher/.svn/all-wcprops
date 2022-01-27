@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher
+END
+ReflectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/ReflectionHelper.java
+END
+ArgsWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/ArgsWrapper.java
+END
+Downloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/Downloader.java
+END
+IClassTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/IClassTransformer.java
+END
+FMLRelaunchLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/FMLRelaunchLog.java
+END
+IFMLCallHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/IFMLCallHook.java
+END
+IFMLLoadingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/IFMLLoadingPlugin.java
+END
+FMLLogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/FMLLogFormatter.java
+END
+FMLCorePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/FMLCorePlugin.java
+END
+IDownloadDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/IDownloadDisplay.java
+END
+DummyDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/DummyDownloader.java
+END
+FMLInjectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/FMLInjectionData.java
+END
+RelaunchClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/RelaunchClassLoader.java
+END
+RelaunchLibraryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/RelaunchLibraryManager.java
+END
+CoreFMLLibraries.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/CoreFMLLibraries.java
+END
+Side.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/Side.java
+END
+SideOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/SideOnly.java
+END
+FMLRelauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/FMLRelauncher.java
+END
+ILibrarySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/868/trunk/powercraft_147/src/minecraft/cpw/mods/fml/relauncher/ILibrarySet.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/commands
+END
+ServerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/commands/ServerCommand.java
+END
+CoreCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/commands/CoreCommand.java
+END
+PlayerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/874/trunk/powercraft_147/src/minecraft/codechicken/core/commands/PlayerCommand.java
+END

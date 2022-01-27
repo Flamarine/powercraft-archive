@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util
+END
+MovementInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MovementInput.java
+END
+MovingObjectPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MovingObjectPosition.java
+END
+MD5String.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MD5String.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/HttpUtil.java
+END
+ScreenShotHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/ScreenShotHelper.java
+END
+EntityDamageSourceIndirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EntityDamageSourceIndirect.java
+END
+IntHashMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/IntHashMapEntry.java
+END
+IProgressUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/IProgressUpdate.java
+END
+WeightedRandomItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/WeightedRandomItem.java
+END
+MinecraftError.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MinecraftError.java
+END
+StatCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/StatCollector.java
+END
+LongHashMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/LongHashMapEntry.java
+END
+WeightedRandomChestContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/WeightedRandomChestContent.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Session.java
+END
+StringTranslate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/StringTranslate.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/StringUtils.java
+END
+Vec3Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Vec3Pool.java
+END
+EntityDamageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EntityDamageSource.java
+END
+IntHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/IntHashMap.java
+END
+AxisAlignedBB.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/AxisAlignedBB.java
+END
+CryptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/CryptManager.java
+END
+DamageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/DamageSource.java
+END
+Vec3.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Vec3.java
+END
+WeightedRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/WeightedRandom.java
+END
+ChunkCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/ChunkCoordinates.java
+END
+FoodStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/FoodStats.java
+END
+IDownloadSuccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/IDownloadSuccess.java
+END
+MovementInputFromOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MovementInputFromOptions.java
+END
+EnumArt.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EnumArt.java
+END
+EnumFacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EnumFacing.java
+END
+EnumMovingObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EnumMovingObjectType.java
+END
+EnchantmentNameParts.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EnchantmentNameParts.java
+END
+AABBPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/AABBPool.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Direction.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Timer.java
+END
+Facing.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Facing.java
+END
+ChatAllowedCharacters.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/ChatAllowedCharacters.java
+END
+MouseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MouseHelper.java
+END
+MathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MathHelper.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/Tuple.java
+END
+ThreadDownloadResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/ThreadDownloadResources.java
+END
+AABBLocalPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/AABBLocalPool.java
+END
+MouseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/MouseFilter.java
+END
+LongHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/LongHashMap.java
+END
+ReportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/ReportedException.java
+END
+HttpUtilRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/HttpUtilRunnable.java
+END
+EnumOS.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/util/EnumOS.java
+END

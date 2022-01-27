@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client
+END
+EnumHelperClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/EnumHelperClient.java
+END
+ForgeHooksClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/ForgeHooksClient.java
+END
+IRenderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/IRenderHandler.java
+END
+GuiControlsScrollPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/GuiControlsScrollPanel.java
+END
+ModCompatibilityClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/ModCompatibilityClient.java
+END
+MinecraftForgeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/MinecraftForgeClient.java
+END
+IRenderContextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/IRenderContextHandler.java
+END
+IItemRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraftforge/client/IItemRenderer.java
+END

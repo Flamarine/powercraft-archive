@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer
+END
+EntitySorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/EntitySorter.java
+END
+RenderList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderList.java
+END
+RenderBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderBlocks.java
+END
+WorldRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/WorldRenderer.java
+END
+RenderSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderSorter.java
+END
+RenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderHelper.java
+END
+OpenGlCapsChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/OpenGlCapsChecker.java
+END
+OpenGlHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/OpenGlHelper.java
+END
+CallableParticlePositionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/CallableParticlePositionInfo.java
+END
+CallableParticleScreenName.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/CallableParticleScreenName.java
+END
+ItemRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ItemRenderer.java
+END
+IImageBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/IImageBuffer.java
+END
+ChestItemRenderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ChestItemRenderHelper.java
+END
+ActiveRenderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ActiveRenderInfo.java
+END
+DestroyBlockProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/DestroyBlockProgress.java
+END
+CallableScreenSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/CallableScreenSize.java
+END
+ThreadDownloadImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ThreadDownloadImageData.java
+END
+CallableScreenName.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/CallableScreenName.java
+END
+RenderGlobal.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderGlobal.java
+END
+InventoryEffectRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/InventoryEffectRenderer.java
+END
+CallableMouseLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/CallableMouseLocation.java
+END
+Tessellator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/Tessellator.java
+END
+ThreadDownloadImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ThreadDownloadImage.java
+END
+EntityRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/EntityRenderer.java
+END
+ImageBufferDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/ImageBufferDownload.java
+END
+RenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/RenderEngine.java
+END
+GLAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/client/renderer/GLAllocation.java
+END

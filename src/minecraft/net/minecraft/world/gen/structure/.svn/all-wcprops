@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure
+END
+MapGenStronghold.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/MapGenStronghold.java
+END
+ComponentNetherBridgeCorridor2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCorridor2.java
+END
+ComponentScatteredFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentScatteredFeature.java
+END
+CallableChunkPosHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/CallableChunkPosHash.java
+END
+StructureStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStart.java
+END
+ComponentStrongholdCrossing.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdCrossing.java
+END
+StructureStrongholdStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdStart.java
+END
+StructurePieceBlockSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructurePieceBlockSelector.java
+END
+StructureVillagePieceWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureVillagePieceWeight.java
+END
+ComponentVillageWell.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageWell.java
+END
+ComponentNetherBridgeStraight.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeStraight.java
+END
+ComponentNetherBridgePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgePiece.java
+END
+ComponentStrongholdStairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdStairs.java
+END
+ComponentVillageField2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageField2.java
+END
+StructureStrongholdStones.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdStones.java
+END
+ComponentStrongholdStairsStraight.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdStairsStraight.java
+END
+ComponentVillageTorch.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageTorch.java
+END
+ComponentStronghold.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStronghold.java
+END
+ComponentVillage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillage.java
+END
+ComponentVillageField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageField.java
+END
+MapGenVillage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/MapGenVillage.java
+END
+ComponentStrongholdRoomCrossing.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdRoomCrossing.java
+END
+ComponentMineshaftCross.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentMineshaftCross.java
+END
+ComponentStrongholdStraight.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdStraight.java
+END
+ComponentNetherBridgeCorridor3.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCorridor3.java
+END
+ComponentNetherBridgeEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeEnd.java
+END
+ComponentVillagePathGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillagePathGen.java
+END
+StructureMineshaftStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureMineshaftStart.java
+END
+ComponentNetherBridgeNetherStalkRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeNetherStalkRoom.java
+END
+EnumDoorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/EnumDoorHelper.java
+END
+StructureMineshaftPieces.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureMineshaftPieces.java
+END
+EnumDoor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/EnumDoor.java
+END
+ComponentNetherBridgeCorridor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCorridor.java
+END
+MapGenNetherBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/MapGenNetherBridge.java
+END
+ComponentVillageHouse1.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageHouse1.java
+END
+StructureStrongholdPieces.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdPieces.java
+END
+ComponentMineshaftRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentMineshaftRoom.java
+END
+StructureBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureBoundingBox.java
+END
+CallableIsFeatureChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/CallableIsFeatureChunk.java
+END
+ComponentStrongholdChestCorridor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdChestCorridor.java
+END
+ComponentVillageChurch.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageChurch.java
+END
+StructureStrongholdPieceWeight2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdPieceWeight2.java
+END
+ComponentMineshaftCorridor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentMineshaftCorridor.java
+END
+StructureScatteredFeatureStones.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureScatteredFeatureStones.java
+END
+ComponentStrongholdCorridor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdCorridor.java
+END
+ComponentNetherBridgeStairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeStairs.java
+END
+ComponentNetherBridgeCorridor4.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCorridor4.java
+END
+ComponentStrongholdRightTurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdRightTurn.java
+END
+ComponentStrongholdStairs2.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdStairs2.java
+END
+ComponentVillageHouse4_Garden.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageHouse4_Garden.java
+END
+ComponentNetherBridgeCrossing2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCrossing2.java
+END
+StructureStrongholdPieceWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdPieceWeight.java
+END
+StructureVillageStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureVillageStart.java
+END
+ComponentStrongholdPortalRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdPortalRoom.java
+END
+ComponentMineshaftStairs.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentMineshaftStairs.java
+END
+StructureScatteredFeatureStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureScatteredFeatureStart.java
+END
+ComponentVillageStartPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageStartPiece.java
+END
+ComponentStrongholdLeftTurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdLeftTurn.java
+END
+ComponentVillageHouse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageHouse2.java
+END
+StructureNetherBridgeStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureNetherBridgeStart.java
+END
+StructureNetherBridgePieceWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureNetherBridgePieceWeight.java
+END
+StructureStrongholdPieceWeight3.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureStrongholdPieceWeight3.java
+END
+ComponentNetherBridgeEntrance.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeEntrance.java
+END
+MapGenMineshaft.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/MapGenMineshaft.java
+END
+ComponentScatteredFeatureDesertPyramid.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentScatteredFeatureDesertPyramid.java
+END
+StructureNetherBridgePieces.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureNetherBridgePieces.java
+END
+ComponentNetherBridgeCorridor5.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCorridor5.java
+END
+ComponentVillageWoodHut.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageWoodHut.java
+END
+ComponentNetherBridgeCrossing3.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCrossing3.java
+END
+ComponentVillageRoadPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageRoadPiece.java
+END
+CallableStructureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/CallableStructureType.java
+END
+StructureComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureComponent.java
+END
+MapGenStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/MapGenStructure.java
+END
+ComponentScatteredFeaturePieces2.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentScatteredFeaturePieces2.java
+END
+ComponentStrongholdLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdLibrary.java
+END
+ComponentNetherBridgeCrossing.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeCrossing.java
+END
+StructureVillagePieces.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/StructureVillagePieces.java
+END
+ComponentVillageHouse3.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageHouse3.java
+END
+ComponentStrongholdPrison.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentStrongholdPrison.java
+END
+ComponentNetherBridgeThrone.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeThrone.java
+END
+ComponentScatteredFeatureSwampHut.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentScatteredFeatureSwampHut.java
+END
+ComponentVillageHall.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentVillageHall.java
+END
+ComponentScatteredFeatureJunglePyramid.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentScatteredFeatureJunglePyramid.java
+END
+ComponentNetherBridgeStartPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/872/trunk/powercraft_147/src/minecraft/net/minecraft/world/gen/structure/ComponentNetherBridgeStartPiece.java
+END
